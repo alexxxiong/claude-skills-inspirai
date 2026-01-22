@@ -1,0 +1,20 @@
+{
+  "name": "inspirai",
+  "description": "InspirAI API documentation management skills",
+  "owner": {
+    "name": "Alex Xiong",
+    "email": "alexxxiong@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "inspirai",
+      "description": "InspirAI API documentation management skills - init, update, and lookup API specs across projects",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "Alex Xiong",
+        "email": "alexxxiong@gmail.com"
+      }
+    }
+  ]
+}

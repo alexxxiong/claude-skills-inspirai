@@ -1,0 +1,13 @@
+{
+  "name": "inspirai",
+  "description": "InspirAI API documentation management skills - init, update, and lookup API specs across projects",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alex Xiong",
+    "email": "alexxxiong@gmail.com"
+  },
+  "homepage": "https://github.com/alexxxiong/claude-skills-inspirai",
+  "repository": "https://github.com/alexxxiong/claude-skills-inspirai",
+  "license": "MIT",
+  "keywords": ["api", "documentation", "specs", "lookup", "inspirai"]
+}
