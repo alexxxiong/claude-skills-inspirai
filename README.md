@@ -10,20 +10,11 @@ A Claude Code plugin for managing API documentation across InspirAI projects.
 
 ## Installation
 
-### Via Claude Code Plugin Marketplace
+In Claude Code, run:
 
-```bash
-# Add marketplace (if not already added)
-claude plugins add-marketplace https://github.com/alexxxiong/claude-skills-inspirai
-
-# Install plugin
-claude plugins install inspirai
 ```
-
-### Manual Installation
-
-```bash
-git clone https://github.com/alexxxiong/claude-skills-inspirai.git ~/.claude/plugins/inspirai
+/plugins add-marketplace https://github.com/alexxxiong/claude-skills-inspirai
+/plugins install inspirai
 ```
 
 ## Setup
